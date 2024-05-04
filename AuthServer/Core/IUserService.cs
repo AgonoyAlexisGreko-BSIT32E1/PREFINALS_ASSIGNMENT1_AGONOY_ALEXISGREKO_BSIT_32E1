@@ -1,9 +1,14 @@
-﻿namespace AuthServer.Core
+﻿using System.Collections.Generic;
+using System.Threading.Tasks;
+
+namespace AuthServer.Core
 {
     public interface IUserService
     {
-        Task<User> CreateUserAsync(User user);
         Task<User> GetUserByUsernameAsync(string username);
-        // Add other user management methods as needed
+        Task<List<User>> GetAllUsersAsync();
+        Task CreateUserAsync(User user);
+        Task UpdateUserAsync(User user);
+        Task DeleteUserAsync(string username);
     }
 }
