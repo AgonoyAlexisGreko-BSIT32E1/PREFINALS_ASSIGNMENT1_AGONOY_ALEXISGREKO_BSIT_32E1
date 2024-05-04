@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj": {}
+    "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj": {
+    "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj",
+        "projectUniqueName": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj",
         "projectName": "PREFINALS_AUTH_AGONOY_ALEXISGREKO",
-        "projectPath": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj",
-        "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\obj\\",
+        "projectPath": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\PREFINALS_AUTH_AGONOY_ALEXISGREKO.csproj",
+        "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\PREFINALS_AUTH_AGONOY_ALEXISGREKO\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -63,7 +63,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

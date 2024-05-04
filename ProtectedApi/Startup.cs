@@ -1,44 +1,54 @@
 ﻿using Microsoft.AspNetCore.Authentication.JwtBearer;
+using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 
-public class Startup
+namespace ProtectedApi
 {
-    public void ConfigureServices(IServiceCollection services)
+    public class Startup
     {
-        // Configure JWT authentication
-        services.AddAuthentication(options =>
+        public IConfiguration Configuration { get; }
+
+        public Startup(IConfiguration configuration)
         {
-            options.DefaultAuthenticateScheme = JwtBearerDefaults.AuthenticationScheme;
-            options.DefaultChallengeScheme = JwtBearerDefaults.AuthenticationScheme;
-        }).AddJwtBearer(options =>
+            Configuration = configuration;
+        }
+
+        public void ConfigureServices(IServiceCollection services)
         {
-            options.TokenValidationParameters = new TokenValidationParameters
+            services.AddControllers();
+
+            var jwtSettings = Configuration.GetSection("JwtSettings");
+            var key = Encoding.ASCII.GetBytes(jwtSettings.GetValue<string>("JwtSigningKey"));
+
+            services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(options =>
+                {
+                    options.TokenValidationParameters = new TokenValidationParameters
+                    {
+                        ValidateIssuer = true,
+                        ValidateAudience = true,
+                        ValidateLifetime = true,
+                        ValidateIssuerSigningKey = true,
+                        ValidIssuer = jwtSettings.GetValue<string>("Issuer"),
+                        ValidAudience = jwtSettings.GetValue<string>("Audience"),
+                        IssuerSigningKey = new SymmetricSecurityKey(key)
+                    };
+                });
+        }
+
+        public void Configure(IApplicationBuilder app)
+        {
+            app.UseRouting();
+
+            app.UseAuthentication();
+            app.UseAuthorization();
+
+            app.UseEndpoints(endpoints =>
             {
-                ValidateIssuer = true,
-                ValidateAudience = true,
-                ValidateLifetime = true,
-                ValidateIssuerSigningKey = true,
-                ValidIssuer = "your-issuer",
-                ValidAudience = "your-audience",
-                IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes("your-secret-key"))
-            };
-        });
-
-        services.AddControllers();
-    }
-
-    public void Configure(IApplicationBuilder app, IWebHostEnvironment env)
-    {
-        // Use authentication
-        app.UseAuthentication();
-
-        app.UseAuthorization();
-
-        app.UseEndpoints(endpoints =>
-        {
-            endpoints.MapControllers();
-        });
+                endpoints.MapControllers();
+            });
+        }
     }
 }

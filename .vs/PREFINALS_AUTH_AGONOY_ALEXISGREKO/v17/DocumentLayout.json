@@ -1,46 +1,30 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\",
+  "WorkspaceRootPath": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\core\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\authserver.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|c:\\users\\student\\desktop\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8FCEDDC2-76A4-4C78-80C2-6E17800B8185}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\alexis\\documents\\github\\prefinals_assignment1_agonoy_alexisgreko_bsit_32e1\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FD77F067-4504-4A17-BAFF-79B7E33A7492}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -50,140 +34,84 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Program.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Program.cs",
-              "RelativeToolTip": "AuthServer\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:23:42.463Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "JWTSettings.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\JWTSettings.cs",
-              "RelativeDocumentMoniker": "AuthServer\\JWTSettings.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\JWTSettings.cs",
-              "RelativeToolTip": "AuthServer\\JWTSettings.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:22:30.633Z",
+              "Title": "ProtectedApi.http",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.http",
+              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.http",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.http",
+              "RelativeToolTip": "ProtectedApi\\ProtectedApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-04T14:11:21.609Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "AuthService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\AuthService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\AuthService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\AuthService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\AuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAwAUAAAAoAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:20:30.278Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "AuthServer",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\AuthServer.csproj",
-              "RelativeDocumentMoniker": "AuthServer\\AuthServer.csproj",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\AuthServer.csproj",
-              "RelativeToolTip": "AuthServer\\AuthServer.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAKAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-05-04T01:16:49.468Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\UserRepository.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\UserRepository.cs",
-              "RelativeToolTip": "AuthServer\\Core\\UserRepository.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:15:28.57Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProtectedApi\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T14:10:05.441Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "IAuthService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\IAuthService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:13:39.191Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\IUserService.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\IUserService.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\IUserService.cs",
-              "RelativeToolTip": "AuthServer\\Core\\IUserService.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:12:21.654Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\User.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Core\\User.cs",
-              "RelativeToolTip": "AuthServer\\Core\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T01:09:19.178Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\appsettings.json",
-              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\appsettings.json",
-              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-05-04T01:00:51.947Z",
+              "WhenOpened": "2024-05-04T13:30:42.391Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "Secret.cs",
-              "DocumentMoniker": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Secret.cs",
-              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
-              "ToolTip": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\AuthServer\\Secret.cs",
-              "RelativeToolTip": "AuthServer\\Secret.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
+              "Title": "Startup.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Startup.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Startup.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Startup.cs",
+              "RelativeToolTip": "ProtectedApi\\Startup.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowDUAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-05-04T00:43:28.647Z",
+              "WhenOpened": "2024-05-04T13:29:30.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Controllers\\ValuesController.cs*",
+              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs*",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA/AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:28:13.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:22:51.174Z",
               "EditorCaption": ""
             }
           ]

@@ -8759,19 +8759,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\STUDENT\\.nuget\\packages\\": {}
+    "C:\\Users\\Alexis\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
+      "projectUniqueName": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
       "projectName": "ProtectedApi",
-      "projectPath": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
-      "packagesPath": "C:\\Users\\STUDENT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\STUDENT\\Desktop\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\obj\\",
+      "projectPath": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\ProtectedApi.csproj",
+      "packagesPath": "C:\\Users\\Alexis\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Alexis\\Documents\\GitHub\\PREFINALS_ASSIGNMENT1_AGONOY_ALEXISGREKO_BSIT_32E1\\ProtectedApi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\STUDENT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Alexis\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -8842,7 +8842,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
